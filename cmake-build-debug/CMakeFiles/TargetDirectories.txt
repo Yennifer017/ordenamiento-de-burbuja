@@ -1,0 +1,3 @@
+/home/igriega/CLionProjects/OrdenamientoBurbuja/cmake-build-debug/CMakeFiles/OrdenamientoBurbuja.dir
+/home/igriega/CLionProjects/OrdenamientoBurbuja/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/igriega/CLionProjects/OrdenamientoBurbuja/cmake-build-debug/CMakeFiles/rebuild_cache.dir
